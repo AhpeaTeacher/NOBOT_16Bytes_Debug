@@ -1,0 +1,11 @@
+D:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\bin\Release\诺博特底盘16位接口专用调试软件Beta1.0.exe
+D:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\bin\Release\诺博特底盘16位接口专用调试软件Beta1.0.pdb
+D:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\串口手柄助手V1._0.Form1.resources
+D:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\串口手柄助手V1._0.Properties.Resources.resources
+D:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\串口手柄助手V1.0.csproj.GenerateResource.Cache
+D:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\诺博特底盘16位接口专用调试软件Beta1.0.exe
+D:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\诺博特底盘16位接口专用调试软件Beta1.0.pdb
+F:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\诺博特底盘16位接口专用调试软件Beta1.0.exe
+F:\C#test\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\诺博特底盘16位接口专用调试软件Beta1.0.pdb
+F:\C# projects\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\诺博特底盘16位接口专用调试软件Beta1.0.exe
+F:\C# projects\串口手柄助手V1.0\串口手柄助手V1.0\obj\x86\Release\诺博特底盘16位接口专用调试软件Beta1.0.pdb
