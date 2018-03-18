@@ -127,7 +127,7 @@
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAbwAAABmCAIAAAA/ALN1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8
+        YQUAAAAJcEhZcwAACxAAAAsQAa0jvXUAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8
         AAAj6ElEQVR4Xu2dXa8dxZWG51fMH5j8gCE/IFEu5o4LbsMcZ+wDCXbAOQRikrEJHsUe8zGxI0cmiFiC
         2BEKKHwpmWSEpQmCEQPRaMAoikMUNOIrEsIXwRAHJ4EwT/dbvU7tqu7q7r1773PsrFdLR13Vq6pWVa16
         a1Xv3vv8zccOh8PhGAwnTYfD4RgBJ02Hw+EYASdNh8PhGAEnTYfD4RgBJ02Hw+EYASdNh8PhGAEnTYfD
@@ -284,9 +284,6 @@
         OByOEXDSdDgcjsH4+OP/BzMeBAT9Qs/qAAAAAElFTkSuQmCC
 </value>
   </data>
-  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAEAP0AAAAEAIAAoQQAAFgAAACgAAAA/AAAAgAAAAAEAIAAAAAAAAD8AACMuAAAjLgAAAAAAAAAA
